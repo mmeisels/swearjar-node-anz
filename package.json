@@ -1,7 +1,7 @@
 {
   "name": "swearjaranz",
   "description": "Profanity detection and filtering library.",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "homepage": "https://github.com/mmeisels/swearjar-node-anz",
   "keywords": [
     "swear",
