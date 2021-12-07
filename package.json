@@ -3,14 +3,19 @@
   "description": "Profanity detection and filtering library.",
   "version": "0.2.0",
   "homepage": "https://github.com/mmeisels/swearjar-node-anz",
-  "keywords": ["swear", "curse", "unallowed", "profanity", "clean", "filter", "badwords"],
-  "author": {
-    "name": "Mike ",
-    "url": "https://github.com/mmeisels"
-  },
+  "keywords": [
+    "swear",
+    "curse",
+    "unallowed",
+    "profanity",
+    "clean",
+    "filter",
+    "badwords"
+  ],
+  "author": "Mike (https://github.com/mmeisels)",
   "repository": {
     "type": "git",
-    "url": "git@github.com:mmeisels/swearjar-node-anz.git"
+    "url": "git+ssh://git@github.com/mmeisels/swearjar-node-anz.git"
   },
   "licenses": [
     {
@@ -27,5 +32,13 @@
   },
   "scripts": {
     "test": "mocha"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/mmeisels/swearjar-node-anz/issues"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "license": "ISC"
 }
